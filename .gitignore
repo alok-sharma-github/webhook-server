@@ -1,0 +1,24 @@
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Env
+.env
+
+# Logs
+logs/
+*.log
+log-*.txt
+
+# OS
+Thumbs.db
+Desktop.ini
+
+.codacy/
+.github/instructions/
+scripts/
